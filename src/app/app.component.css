@@ -1,0 +1,133 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.headtag {
+    width: 100%;
+    height: 400px;
+    background-color: #565656;
+}
+
+.whiteline {
+    width: 100%;
+    height: 50px;
+    display: inline-block;
+    background-color: white;
+    margin-top: 250px;
+    overflow: visible;
+}
+
+.yellowbox {
+    width: 450px;
+    height: 100px;
+    display: inline-block;
+    background-color: #f8bf28;
+    margin-top: -30px;
+    margin-left: 550px;
+    text-align: center;
+}
+
+.name {
+    display: inline-block;
+    margin-top: 15px;
+    font-size: 50px;
+}
+
+.about {
+    width: 100%;
+    height: 30px;
+    text-align: center;
+}
+
+.container {
+    width: 100%;
+    height: 1150px;
+}
+
+.left {
+    width: 50%;
+    height: 100%;
+    float: left;
+    border-right: 2px solid black;
+}
+
+.profile {
+    width: 70%;
+    height: 250px;
+    margin-left: 40px;
+}
+
+.icon {
+    width: 10%;
+    height: 60px;
+    float: left;
+    margin-top: 10px;
+}
+
+.heading {
+    color: #818181;
+    width: 70%;
+    height: 60px;
+    float: left;
+    margin-left: 30px;
+    font-size: 20px;
+}
+
+.content {
+    clear: both;
+    width: 100%;
+    height: 300px;
+    padding: 10px;
+}
+
+.subheading {
+    text-align: center;
+    margin-top: 20px;
+    margin-left: -30px;
+}
+
+.skills {
+    width: 70%;
+    height: 400px;
+    margin-left: 40px;
+}
+
+.icon {
+    width: 10%;
+    height: 60px;
+    float: left;
+    margin-top: 10px;
+}
+
+.heading {
+    width: 70%;
+    height: 60px;
+    float: left;
+    margin-left: 30px;
+    font-size: 20px;
+}
+
+.content {
+    width: 100%;
+    height: 50px;
+    padding: 10px;
+}
+
+.subheading {
+    text-align: center;
+    margin-top: 20px;
+    margin-left: -30px;
+}
+
+.right {
+    width: 49%;
+    height: auto;
+    float: left;
+}
+
+.content1 {
+    margin-top: 330px;
+    width: 100%;
+    height: 50px;
+    padding: 10px;
+}
